@@ -1,4 +1,4 @@
-![LarnU](../_src/assets/00-PrimerosPasos/logo_LarnU.png)
+![LarnU](./assets/img/logo_LarnU.png)
 
 <br>
 <br>
